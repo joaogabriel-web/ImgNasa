@@ -94,9 +94,16 @@ Fonte dos títulos: https://fonts.google.com/specimen/Orbitron?selection.family=
 
 Fonte dos textos: https://fonts.google.com/specimen/Inter?selection.family=Redaction&query=Inter
 
-
+# Detalhes Extras se for necessario
 Em formularios os campos obrigatorios devem ter bordas vermelhas com 5px, e texto obriatorio acima do botao.
 Links devem mudar de cor quando o mouse esta sobre.
+
+
+# Documentaçao e informaçoes de como funciona
+Documente como funciona o site e como usar ele no README.md
+
+# API
+A API vai ta no .env
 
 # Acessibilidade
 Siga os padroes de acessibilidade do WCAG 2.2
