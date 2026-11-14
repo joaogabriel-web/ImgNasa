@@ -107,4 +107,3 @@ A API vai ta no .env
 
 # Acessibilidade
 Siga os padroes de acessibilidade do WCAG 2.2
-
