@@ -62,8 +62,6 @@ background: transparent;
 border: 1px solid #00B4D8;
 color: #00B4D8;
 
-Border Radius  8px
-
 ## Campos de pesquisa
 background: #16213E;
 border: 1px solid #2A4365;
